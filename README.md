@@ -129,5 +129,7 @@ $$y=x^2$$
 
 ∴ It is a function.
 
-![Function Vs Not Function](https://github.com/mdrahulhasanridoy/Fundamental-Calculus/assets/99040899/9915378b-b430-48d6-a886-c794d113bad6)
+<p align="center">
+  <img src="https://github.com/mdrahulhasanridoy/Fundamental-Calculus/assets/99040899/9915378b-b430-48d6-a886-c794d113bad6"/>
+</p>
 

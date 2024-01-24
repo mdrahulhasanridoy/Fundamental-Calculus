@@ -50,3 +50,10 @@ So, A ➡️ depends on both b and h.
 > [!IMPORTANT]  
 > A function is a relation but all functions are not function.
 
+### ***<mark>Formal defination of a function</mark>***
+
+* If a variable y depends on a variable x in such a way that each value of x determine exectly one value of y, Then we say y is a function of x. This relationship is commonly symbolized as y=f(x)
+    
+<p align="center">
+  <img src="https://github.com/mdrahulhasanridoy/Fundamental-Calculus/assets/99040899/db425ab4-8268-4022-aa4b-5c64ddbd56ad"/>
+</p>

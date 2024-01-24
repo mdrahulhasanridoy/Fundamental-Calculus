@@ -57,3 +57,74 @@ So, A ➡️ depends on both b and h.
 <p align="center">
   <img src="https://github.com/mdrahulhasanridoy/Fundamental-Calculus/assets/99040899/db425ab4-8268-4022-aa4b-5c64ddbd56ad"/>
 </p>
+
+* **Example 1**
+    
+```math
+y=2x+3
+```
+
+| ***x*** | ***y*** |
+| --- | --- |
+| \-1 | 1 |
+| 0 | 3 |
+| 10 | 23 |
+| 50 | 103 |
+
+`One input has got one output.`
+
+∴ y = 2x+3; y is function of x.
+
+* **Example 2**
+    
+```math
+y = x^2+1
+```
+
+| ***x*** | ***y*** |
+| --- | --- |
+| \-1 | 2 |
+| 0 | 1 |
+| 1 | 2 |
+| 3 | 10 |
+
+`One input has got one output.`
+
+∴ y is a function of x.
+
+* **Example 3**
+
+```math    
+y^2=x
+```
+
+| ***x*** | ***y*** |
+| --- | --- |
+| 1 | 1 <br> -1 |
+| 4 | 2 <br> -2 |
+
+`One input has got two output.`
+
+∴ It is not a function.
+
+```math
+\begin{align*} If\:\:\:x^2=4;\\ =>\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:x=\pm\sqrt{4}\\ =>\:\:\:\:\:\:\:\:\:\:\:x= +2, -2 \end{align*}
+```
+
+> [!IMPORTANT]  
+> √4 = +2    and    ±√4 = +2,-2    are not same.
+
+* **Example 4**
+    
+
+$$y=x^2$$
+
+| ***x*** | ***y*** |
+| --- | --- |
+| 1 <br> -1 | 1 |
+| 0 | 0 |
+| 2 <br> -2 | 4 |
+
+`Two input has got same/one output.`
+
+∴ It is a function.

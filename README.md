@@ -128,3 +128,6 @@ $$y=x^2$$
 `Two input has got same/one output.`
 
 ∴ It is a function.
+
+![Function Vs Not Function](https://github.com/mdrahulhasanridoy/Fundamental-Calculus/assets/99040899/9915378b-b430-48d6-a886-c794d113bad6)
+
